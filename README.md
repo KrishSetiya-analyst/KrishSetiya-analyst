@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krish Setiya!
+# Hi, I'm Krish Setiya!
 
 ### 📊 Business Analyst | 📈 Data Analyst | 🗄️ SQL | 📉 Power BI
 
